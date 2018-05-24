@@ -1,14 +1,17 @@
 # Documents
 
+## 2018-05-24
+* [UCAS-DL](https://github.com/usiege/Documents/tree/master/UCAS-DL)	//这个是国科大深度学习pdf;
+
 ## 2018-05-22
-* [NLP](https://github.com/usiege/Documents/tree/master/NLP) //这个是国科大自然语言处理pdf;
+* [UCAS-NLP](https://github.com/usiege/Documents/tree/master/UCAS-NLP) 	//这个是国科大自然语言处理pdf;
 
 ## 2018-05-20
-* [Hung-yi Lee DL](https://github.com/usiege/Documents/tree/master/Hung-yi%20Lee%20DL) //李宏毅机器学习课件
+* [Hung-yi Lee DL](https://github.com/usiege/Documents/tree/master/Hung-yi%20Lee%20DL) 	//李宏毅机器学习课件
 
 ## 2018.05.14
-1. [AI Lab](https://github.com/usiege/Documents/tree/master/AI%20Lab) 	//增加AI Lab机器学习资料；
-2. [Coding Books](https://github.com/usiege/Documents/tree/master/Coding%20Books) //增加Coding Books目录，编程电子书：
+1. [AI Lab](https://github.com/usiege/Documents/tree/master/AI%20Lab)	//增加AI Lab机器学习资料；
+2. [Coding Books](https://github.com/usiege/Documents/tree/master/Coding%20Books)	//增加Coding Books目录，编程电子书：
 	* [《swift 进阶》](https://github.com/usiege/Documents/tree/master/Coding%20Books/swift%20%E8%BF%9B%E9%98%B6)
 
 ## 2018.05.10
