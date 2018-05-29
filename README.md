@@ -4,8 +4,12 @@
 <img src='bg.png'>
 </p>
 
+## 2018-05-29
+* [Head First Statistics](https://github.com/usiege/Documents/blob/master/Coding%20Books/Head_First_Statistics.pdf)
+* [Head First 统计学](https://github.com/usiege/Documents/blob/master/Coding%20Books/)
+
 ## 2018-05-25
-* [Head First Python](https://github.com/usiege/Documents/blob/master/Coding%20Books/Head_First_Python.pdf)
+* [Head First Python 中文版](https://github.com/usiege/Documents/blob/master/Coding%20Books/Head_First_Python.pdf)
 * [深度学习（花书）](https://github.com/usiege/Documents/blob/master/Coding%20Books/deeplearning.pdf)
 
 ## 2018-05-24
