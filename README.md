@@ -4,6 +4,11 @@
 <img src='bg.png'>
 </p>
 
+* [DeepLearning库链接](https://github.com/usiege/Deep-Learning)
+
+* [MachineLearning库链接](https://github.com/usiege/Machine-Learning)
+
+
 ## 2018-05-29
 * [Head First Statistics](https://github.com/usiege/Documents/blob/master/Coding%20Books/Head_First_Statistics.pdf)
 * [Head First 统计学](https://github.com/usiege/Documents/blob/master/Coding%20Books/)
